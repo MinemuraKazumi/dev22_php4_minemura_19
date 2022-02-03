@@ -6,11 +6,11 @@ phpデータベースの課題(SESSIONの使用)。
 
 - パスワードをhash化しました。
 
-  ※パスワードはidと同じにしています。
+  パスワードはidと同じにしています。
 
 # ３、参考にしたURL
 
-[折り返し表示](https://qiita.com/gcyata/items/353658a7bdc1e7395337)
+- [折り返し表示](https://qiita.com/gcyata/items/353658a7bdc1e7395337)
 
 # 4、データベース情報
 
