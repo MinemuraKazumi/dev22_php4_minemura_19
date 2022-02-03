@@ -18,6 +18,8 @@ phpデータベースの課題(SESSIONの使用)。
 
 - テーブル　    :gs_bm_table
 
-![管理者画面.png](./img/管理者画面.png)
+!
+[管理者画面.png](./img/管理者画面.png)
 
-![非管理者画面.png](./img/非管理者画面.png)
+!
+[非管理者画面.png](./img/非管理者画面.png)
