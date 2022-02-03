@@ -26,6 +26,8 @@ if ($status === false) {
 //4. 抽出データ数を取得
 $val = $stmt->fetch();
 
+
+
 //if(password_verify($lpw, $val['lpw'])){ //* PasswordがHash化の場合はこっちのIFを使う
 if ($val['id'] != '' && password_verify($lpw, $val['lpw'])) {
     //Login成功時 該当レコードがあればSESSIONに値を代入
