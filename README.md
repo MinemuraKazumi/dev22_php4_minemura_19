@@ -17,3 +17,7 @@ phpデータベースの課題(SESSIONの使用)。
 - データベース　 :gs_book_db
 
 - テーブル　    :gs_bm_table
+
+![管理者画面.png](./img/管理者画面.png)
+
+![非管理者画面.png](./img/非管理者画面.png)
